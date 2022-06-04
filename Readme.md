@@ -7,7 +7,7 @@
 
 
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP / NODE / EXPRESS / MONGODB
+Currently working on these language: REACT / JS / HTML / CSS / BOOTSTRAP / NODE / EXPRESS / MONGODB
 
 - 🌱 I’m currently learning mern stack and tailwind css
 - 👯 I’m looking to collaborate on Github 
