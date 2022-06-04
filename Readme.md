@@ -9,10 +9,10 @@
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP / NODE / EXPRESS / MONGODB
 
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning mern stack and tailwind css
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web development 
-- 📫 How to reach me: farhan.abir9999@gmail.com
+- 📫 How to reach me: farhanshahriyar62@gmail.com
 - ⚡ Fun fact: Learned mern stack within 3.5 months 
 
 <h3 align="left">Connect with me:</h3>
