@@ -2,8 +2,8 @@
 ### Hi there 👋,I'm Md Farhan Shahriyar
 #### Junior MERN Stack developer
 ![Profile views](https://gpvc.arturio.dev/farhanshahriyar)
-<p align="left"> <a href="https://twitter.com/mahabubsaki" target="blank">
-<img src="https://img.shields.io/twitter/follow/mahabubsaki?logo=twitter&style=for-the-badge" alt="mahabubsaki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abirbinashraf25" target="blank">
+<img src="https://img.shields.io/twitter/follow/mahabubsaki?logo=twitter&style=for-the-badge" alt="abirbinashraf25" /></a> </p>
 
 
 
