@@ -50,4 +50,4 @@ Currently working on these language: REACT / JS / HTML / CSS / BOOTSTRAP / NODE 
 </details>
 
 
-     <img src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/b04cae27581df0fec528090fb0ed37799a25b52c/assets/footer.svg" alt="sandunwebdev" />
+<img src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/b04cae27581df0fec528090fb0ed37799a25b52c/assets/footer.svg" alt="sandunwebdev" />
