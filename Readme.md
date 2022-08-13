@@ -34,6 +34,8 @@ Currently working on these language: REACT / JS / HTML / CSS / BOOTSTRAP / NODE 
 
 <details>
     <summary><h3><b>🔥 STATS</b</h3></summary>
+     
+     
 [![trophy](https://github-profile-trophy.vercel.app/?username=farhanshahriyar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farhanshahriyar)  
