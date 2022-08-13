@@ -1,6 +1,8 @@
 ![Junior MERN Stack developer](https://i.ibb.co/9nbhzyW/New-Project.jpg)
-### Hi there 👋,I'm Md Farhan Shahriyar
-#### Junior MERN Stack developer
+### <h1 align="center">Hi there 👋,I'm Md Farhan Shahriyar</h1>
+#### <h3 align="center">Junior MERN Stack developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://assets9.lottiefiles.com/packages/lf20_iv4dsx3q.json">
+
 ![Profile views](https://gpvc.arturio.dev/farhanshahriyar)
 <p align="left"> <a href="https://twitter.com/abirbinashraf25" target="blank">
 <img src="https://img.shields.io/twitter/follow/abirbinashraf25?logo=twitter&style=for-the-badge" alt="abirbinashraf25" /></a> </p>
