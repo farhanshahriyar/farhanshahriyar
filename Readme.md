@@ -50,4 +50,6 @@ Currently working on these language: REACT / JS / HTML / CSS / BOOTSTRAP / NODE 
 </details>
 
 
-<img src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/b04cae27581df0fec528090fb0ed37799a25b52c/assets/footer.svg" alt="sandunwebdev" />
+<img src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/b04cae27581df0fec528090fb0ed37799a25b52c/assets/footer.svg" alt="farhanshahriyar" />
+     
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pzf7akr9esh4i7a625tnu1loq&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
