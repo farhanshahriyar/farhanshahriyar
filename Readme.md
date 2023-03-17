@@ -10,7 +10,6 @@
 
 
 * 🌍  I'm based in Dhaka, Bangladesh.
-* 🌱 I’m currently learning mern stack and tailwind css
 * 👯 I’m looking to collaborate on Github 
 * 💬 Ask me about Web development 
 * 📫 How to reach me: farhanshahriyar62@gmail.com
