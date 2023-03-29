@@ -1,6 +1,6 @@
 
 ### <h1 align="center">Hi there 👋,I'm Md Farhan Shahriyar</h1>
-#### <h3 align="center">Junior MERN Stack developer from Bangladesh</h3>
+#### <h3 align="center">Junior Frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 
