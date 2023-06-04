@@ -3,8 +3,12 @@
 #### <h3 align="center">Junior Frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
-
-![Profile views](https://gpvc.arturio.dev/farhanshahriyar)
+ <a href="https://github.com/farhanshahriyar/">
+    <img src="https://komarev.com/ghpvc/?username=farhanshahriyar" alt="visitors" />
+ </a>
+ <a href="https://github.com/farhanshahriyar?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/farhanshahriyar?color=green&logo=github">
+ </a>
 <p align="left"> <a href="https://twitter.com/abirbinashraf25" target="blank">
 <img src="https://img.shields.io/twitter/follow/abirbinashraf25?logo=twitter&style=for-the-badge" alt="abirbinashraf25" /></a> </p>
 
