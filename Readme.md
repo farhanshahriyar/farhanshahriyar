@@ -10,15 +10,13 @@
  <a href="https://github.com/farhanshahriyar?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/farhanshahriyar?color=green&logo=github">
  </a>
-<p align="left"> <a href="[https://twitter.com/08Shahriyar](08Shahriyar)" target="blank">
-<img src="https://img.shields.io/twitter/follow/abirbinashraf25?logo=twitter&style=for-the-badge" alt="abirbinashraf25" /></a> </p>
 
 
 * 🌍  I'm based in Dhaka, Bangladesh.
-* 👯 I’m looking to collaborate on Github 
+* 👯 I’m looking to collaborate on GitHub 
 * 💬 Ask me about Web development 
 * 📫 How to reach me: farhanshahriyar62@gmail.com
-* ⚡ Fun fact: Learned mern stack within 3.5 months 
+* ⚡ Fun fact: Learned mern stack within 6 months 
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Currently Working & Learning on these
@@ -27,7 +25,7 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> &nbsp; <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> &nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> &nbsp; <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> &nbsp;
  
  
 <details>
