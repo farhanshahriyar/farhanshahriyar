@@ -10,12 +10,12 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/farhanshahriyar?color=green&logo=github">
  </a>
 
-# Intorduction
+# About Me
 As a dedicated MERN stack maestro, <p>I design cutting-edge, full-stack web solutions with MongoDB, Express, React, and Node.js. My speciality is developing responsive user interfaces and solid backends for web pages.</p>
 
-* 🌍  I'm based in Dhaka, Bangladesh.
-* 👯 I’m looking to collaborate on GitHub 
-* 💬 Ask me about Web development 
+* 🌍 I'm based in Dhaka, Bangladesh.
+* 👯 I’m looking to collaborate on Any React Project
+* 💬 Ask me about ReactJS
 * 📫 How to reach me: farhanshahriyarabir23@gmail.com
 * ⚡ Fun fact: Learned mern stack within 6 months 
 * 🤝  I'm open to collaborating on interesting projects as a developer
