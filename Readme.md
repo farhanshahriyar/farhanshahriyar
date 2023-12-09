@@ -2,7 +2,6 @@
 
 ### <h1 align="center">Hi there 👋,I'm Md Farhan Shahriyar</h1>
 #### <h3 align="center">Junior React Frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
  <a href="https://github.com/farhanshahriyar/">
     <img src="https://komarev.com/ghpvc/?username=farhanshahriyar" alt="visitors" />
@@ -11,6 +10,8 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/farhanshahriyar?color=green&logo=github">
  </a>
 
+# Intorduction
+As a dedicated MERN stack maestro, <p>I design cutting-edge, full-stack web solutions with MongoDB, Express, React, and Node.js. My speciality is developing responsive user interfaces and solid backends for web pages.</p>
 
 * 🌍  I'm based in Dhaka, Bangladesh.
 * 👯 I’m looking to collaborate on GitHub 
@@ -19,9 +20,14 @@
 * ⚡ Fun fact: Learned mern stack within 6 months 
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
-# About Me 
-<p>I design cutting-edge, full-stack web solutions with MongoDB, Express, React, and Node.js as a dedicated MERN stack maestro. My specialty is developing responsive user interfaces and solid backends for requiring web pages.</p>
 
+### Currently Working & Learning on these
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> &nbsp;
 
 <details>
  <summary><h3><b>📫 Connect with me:</b></h3></summary>
