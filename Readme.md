@@ -86,9 +86,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanshahriyar&show_icons=true&count_private=true&theme=blue-green&include_all_commits=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhanshahriyar)  
-
-![GitHub metrics](https://metrics.lecoq.io/farhanshahriyar)  
 </details>
 
 
