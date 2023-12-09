@@ -9,7 +9,7 @@
  <a href="https://github.com/farhanshahriyar?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/farhanshahriyar?color=green&logo=github">
  </a>
-<p align="left"> <a href="[https://twitter.com/abirbinashraf25](https://twitter.com/08Shahriyar)" target="blank">
+<p align="left"> <a href="[https://twitter.com/08Shahriyar](08Shahriyar)" target="blank">
 <img src="https://img.shields.io/twitter/follow/abirbinashraf25?logo=twitter&style=for-the-badge" alt="abirbinashraf25" /></a> </p>
 
 
