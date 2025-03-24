@@ -1,7 +1,7 @@
 ![Farhan's Moto](https://raw.githubusercontent.com/farhanshahriyar/farhanshahriyar/master/moto.png)
 
 ### <h1 align="center">Hi there 👋,I'm Md Farhan Shahriyar</h1>
-#### <h3 align="center">Junior Software Developer from Bangladesh</h3>
+#### <h3 align="center">Junior Full-Stack Developer from Bangladesh</h3>
 
  <a href="https://github.com/farhanshahriyar/">
     <img src="https://komarev.com/ghpvc/?username=farhanshahriyar" alt="visitors" />
@@ -11,7 +11,7 @@
  </a>
 
 # About Me
-As a dedicated mern stack maestro, <p>I design cutting-edge, full-stack web solutions with MongoDB, Express, React, and Node.js. My speciality is developing responsive user interfaces and solid backends for web pages.</p>
+As a dedicated full-stack stack maestro, <p>I design cutting-edge, full-stack web solutions with MongoDB, Express, React, and Node.js. My specialty is developing responsive user interfaces and solid backends for web pages.</p>
 
 * 🌍 I'm based in Dhaka, Bangladesh.
 * 👯 I’m looking to collaborate on Any React Project
