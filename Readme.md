@@ -33,7 +33,7 @@ As a dedicated full-stack stack maestro, <p>I design cutting-edge, full-stack we
 * 📚 2022 Goals: Choose a programming language. (✅)
 * 📚 2023 Goals: I must set myself as a Web Development and Passion for MERN Stack. (✅)
 * 📚 2024 Goals: To get a career as a web developer/frontend developer into a professional. (❌)
-* 📚 2025 Goals: Trying to get a career as a web developer/frontend developer into a professional. (🔜)
+* 📚 2025 Goals: Trying to get a career as a web developer/frontend/full-stack developer into a professional. (🔜)
 * 📚 2026 Goals: To crack tech giant (recommended as Software Developer/Engineer) (🔜)
 * 📚 2026 Goals: Loading (🚀)
 
