@@ -97,8 +97,12 @@ As a dedicated full-stack stack maestro, <p>I design cutting-edge, full-stack we
 
 </details>
 
+### My LeetCode Stats
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/farhanshahriyar?theme=dark" alt="farhanshahriyar LeetCode Stats" />
+</p>
 
-<img src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/b04cae27581df0fec528090fb0ed37799a25b52c/assets/footer.svg" alt="farhanshahriyar" />
      
+
 
 
