@@ -1,108 +1,104 @@
 ![Farhan's Moto](https://raw.githubusercontent.com/farhanshahriyar/farhanshahriyar/master/moto.png)
 
-### <h1 align="center">Hi there 👋,I'm Md Farhan Shahriyar</h1>
-#### <h3 align="center">Junior Full-Stack Developer from Bangladesh</h3>
+<h1 align="center">Hey there 👋, I'm Md. Farhan Shahriyar</h1>
+<h3 align="center">Full Stack Developer | React • Next.js • Supabase • TypeScript</h3>
 
- <a href="https://github.com/farhanshahriyar/">
-    <img src="https://komarev.com/ghpvc/?username=farhanshahriyar" alt="visitors" />
- </a>
- <a href="https://github.com/farhanshahriyar?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/farhanshahriyar?color=green&logo=github">
- </a>
+<p align="center">
+  <a href="https://github.com/farhanshahriyar"><img src="https://komarev.com/ghpvc/?username=farhanshahriyar&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/farhanshahriyar?tab=followers"><img src="https://img.shields.io/github/followers/farhanshahriyar?logo=github&style=for-the-badge" alt="GitHub followers" /></a>
+</p>
 
-# About Me
-As a dedicated full-stack stack maestro, <p>I design cutting-edge, full-stack web solutions with MongoDB, Express, React, and Node.js. My specialty is developing responsive user interfaces and solid backends for web pages.</p>
+---
 
-* 🌍 I'm based in Dhaka, Bangladesh.
-* 👯 I’m looking to collaborate on Any React Project
-* 💬 Ask me about ReactJS
-* 📫 How to reach me: farhanshahriyarabir23@gmail.com
-* ⚡ Fun fact: Learned mern stack within 6 months 
-* 🤝  I'm open to collaborating on interesting projects as a developer
+## 👨‍💻 About Me
+I'm a **Full Stack Developer** from Dhaka, Bangladesh, with a deep passion for creating scalable, human-centered web applications.  
+I love working with modern tools like **React**, **Next.js**, **Supabase**, and **TypeScript**, turning ideas into responsive and intelligent web experiences.  
 
+- 🌍 Based in Dhaka, Bangladesh  
+- 💬 Ask me about **React**, **Next.js**, and **Supabase**  
+- 🤝 Looking to collaborate on **modern SaaS dashboards & AI-integrated apps**  
+- 📫 Reach me at **farhanshahriyar.ju242185@gmail.com**  
+- ⚡ Fun fact: I built 3 full-stack projects before I even graduated 🎯  
 
-### Currently Working & Learning on these
+---
+
+## 🚀 Currently Building & Learning
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> &nbsp;
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" alt="Next.js" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" alt="Supabase" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" alt="TypeScript" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" alt="TailwindCSS" /></a>
+</p>
 
-# Goals
-* 📚 2022 Goals: Choose a programming language. (✅)
-* 📚 2023 Goals: I must set myself as a Web Development and Passion for MERN Stack. (✅)
-* 📚 2024 Goals: To get a career as a web developer/frontend developer into a professional. (❌) Failed
-* 📚 2025 Goals: Trying to get a career as a web developer/frontend/full-stack developer into a professional. (🔜) Ongoing
-* 📚 2026 Goals: To crack tech giant (recommended as Software Developer/Engineer) (🔜) Soon inshaAllah
-* 📚 2026 Goals: Loading (🚀)
+---
+
+## 🎯 5-Year Goals
+- **2022:** Learned the MERN stack from scratch (✅)  
+- **2023:** Built my first full-stack apps and started collaborating (✅)  
+- **2024:** Applied for developer roles and sharpened technical depth (🚧)  
+- **2025:** Land a professional role as a **Full Stack / Frontend Engineer** (🎯 ongoing)  
+- **2026:** Join a top tech company as a **Software Engineer** (InshaAllah 🤲)  
+
+---
 
 <details>
- <summary><h3><b>📫 Connect with me:</b></h3></summary>
-<p align="left">
-<a href="https://linkedin.com/in/md-farhan-shahriyar-1255a2203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-farhan-shahriyar-1255a2203/" height="30" width="40" /></a>
-<a href="https://fb.com/abirxhants" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abirxhants" height="30" width="40" /></a>
-</p>
+  <summary><h3>📫 Connect with Me</h3></summary>
+  <p align="left">
+    <a href="https://linkedin.com/in/mdfarhanshahriyar18" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
+    <a href="https://fb.com/abirxhants" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" /></a>
+  </p>
 </details>
 
-<details>
-   <summary><h3><b>⛏️ TECHNICAL SKILLS</b</h3></summary>
-<div align="center">  
- 
-### Frontend  
-<div align="center">
- <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>   
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> &nbsp;
- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  &nbsp;
-</td><td valign="top" width="33%">
- </div>
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/farhanshahriyar/farhanshahriyar/master/images/express.png" alt="Express.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/farhanshahriyar/farhanshahriyar/master/images/firebase.png" alt="Firebase" height="50" /></a>  
-
-
-</div>
-
- </details>
+---
 
 <details>
-    <summary><h3><b>🔥 STATS</b</h3></summary>
-     
-     
-[![trophy](https://github-profile-trophy.vercel.app/?username=farhanshahriyar)](https://github.com/ryo-ma/github-profile-trophy)
+  <summary><h3>⚙️ Tech Stack</h3></summary>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farhanshahriyar)  
+### 🖥️ Frontend  
+React • Next.js • Tailwind CSS • TypeScript • ShadCN UI  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanshahriyar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ Backend  
+Node.js • Express.js • Supabase • PostgreSQL • MongoDB  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanshahriyar&show_icons=true&count_private=true&theme=blue-green&include_all_commits=true&count_private=true)
+### ☁️ Tools & Deployment  
+GitHub • Vercel • Netlify • Firebase • GitHub Actions • Figma  
+
+### 🧠 Others  
+CI/CD • Jest • Problem Solving (LeetCode)
 
 </details>
 
-### My LeetCode Stats
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/farhanshahriyar?theme=dark" alt="farhanshahriyar LeetCode Stats" />
+---
+
+<details>
+  <summary><h3>🔥 Stats & Highlights</h3></summary>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farhanshahriyar&theme=algolia" />
 </p>
 
-     
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhanshahriyar&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanshahriyar&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanshahriyar&layout=compact&theme=tokyonight" />
+</p>
 
+</details>
+
+---
+
+## 🧩 LeetCode Progress
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/farhanshahriyar?theme=dark&font=Baloo%202" alt="Farhan Shahriyar's LeetCode Stats" />
+</p>
+
+---
+
+⭐ **“Code, Learn, Repeat — Until It Feels Effortless.”**
