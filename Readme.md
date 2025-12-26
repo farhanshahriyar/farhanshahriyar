@@ -37,8 +37,8 @@ I love working with modern tools like **React**, **Next.js**, **Supabase**, and 
 - **2022:** Learned the MERN stack from scratch (✅)  
 - **2023:** Built my first full-stack apps and started collaborating (✅)  
 - **2024:** Applied for developer roles and sharpened technical depth (🚧)  
-- **2025:** Land a professional role as a **Full Stack / Frontend Engineer** (🎯 ongoing)  
-- **2026:** Join a top tech company as a **Software Engineer** (InshaAllah 🤲)  
+- **2025:** Land a professional role as a **Full Stack / Frontend Engineer** or Think about startup (🎯 ongoing)  
+- **2026:** Build Startup / Join a top tech company as a **Software Engineer** (InshaAllah 🤲)  
 
 ---
 
@@ -102,3 +102,4 @@ CI/CD • Jest • Problem Solving (LeetCode)
 ---
 
 ⭐ **“Code, Learn, Repeat — Until It Feels Effortless.”**
+
